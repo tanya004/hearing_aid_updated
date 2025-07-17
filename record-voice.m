@@ -5,4 +5,4 @@ z=audiorecorder(Fs,nBits,nChannels);
     recordblocking(z,2); %Records a 2 sec audio
     delete(h);
     
-end
+end 
